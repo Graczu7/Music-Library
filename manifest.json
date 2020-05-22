@@ -1,0 +1,21 @@
+{
+    "name": "Music Library",
+    "short_name": "Music Library",
+    "start_url": "https://wizard.uek.krakow.pl/~s208717/",
+    "display": "standalone",
+    "splash_pages": null,
+    "background_color": "#FFFFFF",
+    "theme_color": "#89f5b1",
+    "orientation": "portrait-primary",
+    "scope": "/",
+    "icons": [
+      {
+        "src": "/static/favicons/android-chrome-72x72.png",
+        "type": "image/png", "sizes": "72x72"
+      },
+      {
+        "src": "/static/favicons/android-chrome-96x96.png",
+        "type": "image/png", "sizes": "96x96"
+      }
+    ]
+  }
